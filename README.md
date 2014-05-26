@@ -2,7 +2,7 @@ NetworkTaskClient
 =================
 Network Task Client
 
-Wits and Wagers - simple open-source game written on Java. Uses only standart libraries from Java 1.7.
+Wits and Wagers - simple open-source game written on Java. Uses only standart libraries from Java 1.7. Requires Java 1.7
 
 Launch client from repository:
 
