@@ -6,10 +6,10 @@ Wits and Wagers - simple open-source game written on Java. Uses only standart li
 
 Launch client from repository:
 
-1)Copy to your laptop
+1) Copy to your laptop
 
-2)Open project in eclipse and export it in Executable jar file
+2) Open project in eclipse and export it in Executable jar file
 
-3)On Linux: java -jar client.jar, On windows - double click
+3) On Linux: java -jar client.jar, On windows - double click
 
 Type in ip-address of the server and port - enjoy the game:)
