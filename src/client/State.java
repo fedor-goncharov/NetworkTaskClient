@@ -1,0 +1,9 @@
+package client;
+
+public enum State {
+	START_GAME,
+	WRITE_ANSWER,
+	MAKE_STAKE,
+	SHOW_ROUND_RESULTS,
+	SHOW_GAME_RESULTS
+}
